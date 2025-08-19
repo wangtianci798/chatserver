@@ -1,0 +1,3 @@
+/home/vi/C++xiangmu/test/build/CMakeFiles/server.dir
+/home/vi/C++xiangmu/test/build/CMakeFiles/edit_cache.dir
+/home/vi/C++xiangmu/test/build/CMakeFiles/rebuild_cache.dir
